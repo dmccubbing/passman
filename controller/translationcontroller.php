@@ -51,7 +51,7 @@ class TranslationController extends ApiController {
 			'credential.deleted' => $this->trans->t('Credential deleted'),
 			'credential.updated' => $this->trans->t('Credential updated'),
 			'credential.recovered' => $this->trans->t('Credential recovered'),
-			'credential.destroyed' => $this->trans->t('Credential recovered'),
+			'credential.destroyed' => $this->trans->t('Credential destroyed'),
 			'error.loading.file.perm' => $this->trans->t('Error downloading file, you probably don\'t have enough permissions'),
 
 			// js/app/controllers/edit_credential.js
